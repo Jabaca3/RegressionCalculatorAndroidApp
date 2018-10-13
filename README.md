@@ -1,2 +1,2 @@
 # RegressionCalculatorAndroidApp
-Personal: Built a calculator from scratch for a friend :)
+Personal: Built a Regression calculator from scratch for a friend :)
